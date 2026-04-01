@@ -1,3 +1,4 @@
+// Policy Iteration: alternates policy evaluation + greedy improvement
 import { useState, useEffect, useRef, useCallback } from "react";
 
 // Grid config
